@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1067950744164",
+    "project_id": "catkur-db",
+    "storage_bucket": "catkur-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067950744164:android:100cfa44a9d9181ac73571",
+        "android_client_info": {
+          "package_name": "com.rizki.catkur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067950744164-mjei74sug9qdqqjvo34i8kpp3jp9mr3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFiXIzxoIsV7jR37NkwIyywvxUvtaDY_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067950744164-mjei74sug9qdqqjvo34i8kpp3jp9mr3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

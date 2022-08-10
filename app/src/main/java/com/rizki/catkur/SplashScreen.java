@@ -26,7 +26,7 @@ public class SplashScreen extends AppCompatActivity {
             public void run() {
 
                 /**setelah loading splash selesai maka akan di teruskan ke activity login**/
-                Intent i =new Intent(SplashScreen.this, MainActivity.class);
+                Intent i =new Intent(SplashScreen.this, LoginActivity.class);
                 startActivity(i);
                 finish();
 

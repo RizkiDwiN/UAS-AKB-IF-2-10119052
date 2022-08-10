@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Catkur">
         <activity
+            android:name=".SignUpActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false" />
+        <activity
             android:name=".Edit"
             android:exported="false" />
         <activity
@@ -19,8 +25,7 @@
             android:theme="@style/Theme.Catkur.NoActionBar" />
         <activity
             android:name=".AddCatkur"
-            android:exported="false">
-        </activity>
+            android:exported="false" />
         <activity
             android:name=".MainActivity"
             android:exported="false" />

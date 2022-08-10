@@ -10,9 +10,9 @@
         android:id="@+id/tVersion"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="120dp"
+        android:layout_marginLeft="35dp"
         android:layout_marginTop="265dp"
-        android:text="Version : 0.1 BETA"
+        android:text="Version : 2.0 Powered by Firebase Auth"
         android:textColor="@color/white"
         android:textSize="20sp" />
 
