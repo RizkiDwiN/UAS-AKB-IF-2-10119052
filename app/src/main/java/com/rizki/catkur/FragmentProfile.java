@@ -9,7 +9,7 @@ import android.view.ViewGroup;
 import androidx.fragment.app.Fragment;
 
 /**
- * Tanggal Pengerjaan : 06 JUNI 2022 , 22.09 WIB
+ * Tanggal Pengerjaan : 10 AGUSTUS 2022 , 13.56 WIB
  * NIM : 10119052
  * Nama : Rizki Dwi Nugraha
  * Kelas : IF-2
